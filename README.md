@@ -1,9 +1,5 @@
 # Library-management-system-using-C++
 
-Here's a well-structured `README.md` content for your **Library Management System in C++** project:
-
----
-
 # 📚 Library Management System (C++ Project)
 
 ## 🔖 Overview
