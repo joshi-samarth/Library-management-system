@@ -1,6 +1,4 @@
-# Library-management-system-using-C++
-
-# 📚 Library Management System (C++ Project)
+# 📚 Library Management System C++ Project
 
 ## 🔖 Overview
 
